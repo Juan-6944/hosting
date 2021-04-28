@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap");
+
+body {
+  background: #f3f9a7;
+}
+h1,
+h2,
+h3 {
+  font-family: "New Tegomin", serif;
+}
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+h2 {
+  font-size: 50px;
+  text-align: center;
+}
+h3 {
+  font-size: 50px;
+  text-align: center;
+}

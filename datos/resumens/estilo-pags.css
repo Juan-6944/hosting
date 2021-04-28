@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+
+body{
+    background: #f3f9a7;
+}
+.textos{
+    margin: 20px;
+}
+p{
+    margin: 20px;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 42px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: oblique;
+}
+h2{
+    font-size: 22px;
+    font-family: 'Syne Mono', monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+.imgs{
+    position: absolute;
+    left: 350px;
+    margin-top: -30px;
+    padding: 30px;
+}
+.imgs-xt{
+    position: absolute;
+    left: 300px;
+    margin-top: -30px;
+    padding: 30px;
+    width: 300px;
+}
+.ims{
+    text-align: center;
+}
